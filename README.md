@@ -1,3 +1,9 @@
+#Travelling-List
+
+A React app which will help you manage your travelling to-do list.
+
+Try it [here](https://travelling-list.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
